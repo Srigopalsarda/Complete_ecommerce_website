@@ -1,5 +1,7 @@
 # Complete_ecommerce_website
-This is a folder which contains a backend in java and frontend files in Vue.js and Mysql as database
+
+## This is a folder which contains a backend in java and frontend files in `Vue.js` and `Mysql` as DataBase
+
 1. First set My Sql database on My sql workbench
 2. Connect My Sql with backend
 3. For front end
